@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/274504322.svg)](https://zenodo.org/badge/latestdoi/274504322)
+
 # Supplemental material for the article "What do we hear from a drum? A data-consistent approach to quantifying irreducible uncertainty on model inputs by extracting information from correlated model output data" by Troy Butler and Harri Hakula
 
 The supplemental material in this repository allows the interested reader to re-create all of the figures and table data presented in the article.
